@@ -1,0 +1,254 @@
+    1  git
+    2  clear
+    3  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+    4  subl
+    5  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+    6  subl
+    7  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+    8  subl
+    9  git --version
+   10  git init my_first_respository
+   11  ls
+   12  cd my_first_respository
+   13  ls
+   14  ls -l
+   15  ls -a
+   16  git init
+   17  git clone https://github.com/breanneboland/sea-w23-uge.git
+   18  git branch funny_image
+   19  git checkout -b funny_image
+   20  cd sea-w23-uge/
+   21  git checkout -b funny_image
+   22  git checkout funny_image
+   23  mkdir breanneboland
+   24  nano README.md
+   25  nano README.txt
+   26  less README.txt
+   27  git add README.txt
+   28  git commit -a -m "Funny image inside"
+   29  git push origin funny_image
+   30  env
+   31  pwd
+   32  cd /
+   33  clear
+   34  ls
+   35  ls -t
+   36  ls l
+   37  ls -l
+   38  ls -lt
+   39  ls -r
+   40  ls -ltr
+   41  clear
+   42  man ls
+   43  man man
+   44  man ls
+   45  ls -F
+   46  ls -G
+   47  ls -h
+   48  man ls
+   49  ls -s
+   50  ls -R
+   51  cd /Users/breanneboland
+   52  clear
+   53  ls
+   54  ls -l
+   55  cd downloads
+   56  pwd
+   57  ls
+   58  ls
+   59  ls
+   60  cd A-thing-is-here
+   61  cd /
+   62  cd Library
+   63  ls
+   64  cd Fonts
+   65  ls
+   66  pwd
+   67  cd ..
+   68  ls
+   69  cd Java
+   70  ls
+   71  cd Extensions
+   72  ls
+   73  cd ../..
+   74  ls
+   75  cd Python
+   76  ls
+   77  cd 2.6
+   78  ls
+   79  cd site-packages
+   80  ls
+   81  cd README
+   82  cd ..
+   83  cd ..
+   84  cd ..
+   85  ls
+   86  ../..
+   87  ..
+   88  cd ..
+   89  ls
+   90  cd Users
+   91  ls
+   92  cd tom
+   93  ls
+   94  cd Applications
+   95  ls
+   96  cd ..
+   97  cd ..
+   98  ls
+   99  cd Shared
+  100  ls
+  101  cd
+  102  ls
+  103  cd Music
+  104  ls
+  105  cd ../Downloads
+  106  ls
+  107  cd A-thing-is-here
+  108  ls ~
+  109  ..
+  110  ls A-thing-is-here
+  111  ls /A-thing-is-here
+  112  cd ..
+  113  ls ~
+  114  ls -l /
+  115  cd .
+  116  ls .
+  117  ls
+  118  history
+  119  history 10
+  120  history | less
+  121  cd
+  122  pwd
+  123  history > my_history
+  124  cat my_history | less
+  125  clear
+  126  history > history.txt
+    1  git
+    2  clear
+    3  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+    4  subl
+    5  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+    6  subl
+    7  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+    8  subl
+    9  git --version
+   10  git init my_first_respository
+   11  ls
+   12  cd my_first_respository
+   13  ls
+   14  ls -l
+   15  ls -a
+   16  git init
+   17  git clone https://github.com/breanneboland/sea-w23-uge.git
+   18  git branch funny_image
+   19  git checkout -b funny_image
+   20  cd sea-w23-uge/
+   21  git checkout -b funny_image
+   22  git checkout funny_image
+   23  mkdir breanneboland
+   24  nano README.md
+   25  nano README.txt
+   26  less README.txt
+   27  git add README.txt
+   28  git commit -a -m "Funny image inside"
+   29  git push origin funny_image
+   30  env
+   31  pwd
+   32  cd /
+   33  clear
+   34  ls
+   35  ls -t
+   36  ls l
+   37  ls -l
+   38  ls -lt
+   39  ls -r
+   40  ls -ltr
+   41  clear
+   42  man ls
+   43  man man
+   44  man ls
+   45  ls -F
+   46  ls -G
+   47  ls -h
+   48  man ls
+   49  ls -s
+   50  ls -R
+   51  cd /Users/breanneboland
+   52  clear
+   53  ls
+   54  ls -l
+   55  cd downloads
+   56  pwd
+   57  ls
+   58  ls
+   59  ls
+   60  cd A-thing-is-here
+   61  cd /
+   62  cd Library
+   63  ls
+   64  cd Fonts
+   65  ls
+   66  pwd
+   67  cd ..
+   68  ls
+   69  cd Java
+   70  ls
+   71  cd Extensions
+   72  ls
+   73  cd ../..
+   74  ls
+   75  cd Python
+   76  ls
+   77  cd 2.6
+   78  ls
+   79  cd site-packages
+   80  ls
+   81  cd README
+   82  cd ..
+   83  cd ..
+   84  cd ..
+   85  ls
+   86  ../..
+   87  ..
+   88  cd ..
+   89  ls
+   90  cd Users
+   91  ls
+   92  cd tom
+   93  ls
+   94  cd Applications
+   95  ls
+   96  cd ..
+   97  cd ..
+   98  ls
+   99  cd Shared
+  100  ls
+  101  cd
+  102  ls
+  103  cd Music
+  104  ls
+  105  cd ../Downloads
+  106  ls
+  107  cd A-thing-is-here
+  108  ls ~
+  109  ..
+  110  ls A-thing-is-here
+  111  ls /A-thing-is-here
+  112  cd ..
+  113  ls ~
+  114  ls -l /
+  115  cd .
+  116  ls .
+  117  ls
+  118  history
+  119  history 10
+  120  history | less
+  121  cd
+  122  pwd
+  123  history > my_history
+  124  cat my_history | less
+  125  clear
+  126  history > history.txt
+  127  less history.txt
+  128  history >> history.txt
