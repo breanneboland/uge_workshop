@@ -1,3 +1,5 @@
+Hidden files' names start with a dot. .git, .whatevs, .thing
+
     1  git
     2  clear
     3  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
