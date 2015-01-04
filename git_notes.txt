@@ -1,0 +1,232 @@
+I am adding notes to Git. Tra la la. 
+
+Delicious sample file. 
+
+Yay
+
+If I wrote with numbers on each line all the time, might I be more productive?
+
+Words words words words
+
+    1  git
+    2  clear
+    3  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+    4  subl
+    5  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+    6  subl
+    7  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+    8  subl
+    9  git --version
+   10  git init my_first_respository
+   11  ls
+   12  cd my_first_respository
+   13  ls
+   14  ls -l
+   15  ls -a
+   16  git init
+   17  git clone https://github.com/breanneboland/sea-w23-uge.git
+   18  git branch funny_image
+   19  git checkout -b funny_image
+   20  cd sea-w23-uge/
+   21  git checkout -b funny_image
+   22  git checkout funny_image
+   23  mkdir breanneboland
+   24  nano README.md
+   25  nano README.txt
+   26  less README.txt
+   27  git add README.txt
+   28  git commit -a -m "Funny image inside"
+   29  git push origin funny_image
+   30  env
+   31  pwd
+   32  cd /
+   33  clear
+   34  ls
+   35  ls -t
+   36  ls l
+   37  ls -l
+   38  ls -lt
+   39  ls -r
+   40  ls -ltr
+   41  clear
+   42  man ls
+   43  man man
+   44  man ls
+   45  ls -F
+   46  ls -G
+   47  ls -h
+   48  man ls
+   49  ls -s
+   50  ls -R
+   51  cd /Users/breanneboland
+   52  clear
+   53  ls
+   54  ls -l
+   55  cd downloads
+   56  pwd
+   57  ls
+   58  ls
+   59  ls
+   60  cd A-thing-is-here
+   61  cd /
+   62  cd Library
+   63  ls
+   64  cd Fonts
+   65  ls
+   66  pwd
+   67  cd ..
+   68  ls
+   69  cd Java
+   70  ls
+   71  cd Extensions
+   72  ls
+   73  cd ../..
+   74  ls
+   75  cd Python
+   76  ls
+   77  cd 2.6
+   78  ls
+   79  cd site-packages
+   80  ls
+   81  cd README
+   82  cd ..
+   83  cd ..
+   84  cd ..
+   85  ls
+   86  ../..
+   87  ..
+   88  cd ..
+   89  ls
+   90  cd Users
+   91  ls
+   92  cd tom
+   93  ls
+   94  cd Applications
+   95  ls
+   96  cd ..
+   97  cd ..
+   98  ls
+   99  cd Shared
+  100  ls
+  101  cd
+  102  ls
+  103  cd Music
+  104  ls
+  105  cd ../Downloads
+  106  ls
+  107  cd A-thing-is-here
+  108  ls ~
+  109  ..
+  110  ls A-thing-is-here
+  111  ls /A-thing-is-here
+  112  cd ..
+  113  ls ~
+  114  ls -l /
+  115  cd .
+  116  ls .
+  117  ls
+  118  history
+  119  history 10
+  120  history | less
+  121  cd
+  122  pwd
+  123  history > my_history
+  124  cat my_history | less
+  125  clear
+  126  history > history.txt
+  127  less history.txt
+  128  history >> history.txt
+  129  less
+  130  less history.txt
+  131  subl moving_around.txt
+  132  subl
+  133  mkdir uge-workshop
+  134  ls
+  135  ls -l
+  136  mv history.txt uge-workshop
+  137  clear
+  138  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  139  subl
+  140  ls /usr/local/bin/subl
+  141  which subl
+  142  echo $PATH
+  143  ls /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+  144  ls 
+  145  ls /Applications
+  146  ls /Applications
+  147  ls /Applications/Sublime\ Text.app/
+  148  ls /Applications/Sublime\ Text.app/Contents/
+  149  ls /Applications/Sublime\ Text.app/Contents/MacOS/
+  150  ls /Applications/Sublime\ Text.app/Contents/SharedSupport/
+  151  ls /Applications/Sublime\ Text.app/Contents/SharedSupport/bin
+  152  ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin /usr/local/bin/subl
+  153  rm /usr/local/bin/subl
+  154  ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin /usr/local/bin/subl
+  155  which subl
+  156  rm /usr/local/bin/subl
+  157  ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  158  which subl
+  159  subl
+  160  subl
+  161  clear
+  162  ls
+  163  cd uge-workshop
+  164  cd ..
+  165  ls
+  166  mv my_history uge-workshop
+  167  cd uge-workshop
+  168  ls
+  169  less history.txt
+  170  mv history.txt unix_notes.txt
+  171  ls
+  172  less unix_notes.txt
+  173  clear
+  174  subl unix_notes.txt 
+  175  which git
+  176  git --version
+  177  ~
+  178  cd ~
+  179  git config --global user.name "Breanne Boland"
+  180  git config --user.email "breanneboland@gmail.com"
+  181  git config --global user.email "breanneboland@gmail.com"
+  182  clear
+  183  cd uge_workshop
+  184  ls
+  185  cd uge-workshop
+  186  git config -l | sort | less
+  187  man git-config
+  188  pwd
+  189  clear
+  190  ls
+  191  git init
+  192  git status
+  193  git add unix_notes.txt
+  194  git status
+  195  git status unix_notes.txt
+  196  git commit -m "My notes so far for the 3 January 2015 Code Fellows workshop"
+  197  git status
+  198  clear
+  199  git log
+  200  git log | less
+  201  subl unix_notes.txt
+  202  git status
+  203  git add unix_notes.txt 
+  204  git diff staged
+  205  git add unix_notes.txt 
+  206  git commit -m "Added a bit about hidden files, as I was instructed"
+  207  git log
+  208  git ll
+  209  git all
+  210  git branch git-notes
+  211  git status
+  212  git branch
+  213  git checkout git-notes
+  214  git branch
+  215  git status
+  216  clear
+  217  touch git_notes.txt
+  218  ls
+  219  ls -l
+  220  cat git_notes.txt
+  221  subl git_notes.txt
+  222  history >> git_notes.txt 
